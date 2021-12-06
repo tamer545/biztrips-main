@@ -52,7 +52,6 @@ export default function App() {
   // shorthand for react fragment
   return (
     <>
-
       <div>
         <Header />
         <main>
